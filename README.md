@@ -10,13 +10,24 @@
   <a href="https://www.linkedin.com/in/guilherme-costa-75535622/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">  
   </a>
-  
 </p>
+    
+    
+## 👨🏻‍💻 &nbsp;About Me
 
-[![GuilhermeCostaDF](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCostaDF&hide=html&layout=compact&theme=dracula)](https://github.com/GuilhermeCostaDF)
+💡 I like to explore new technologies.\
+🎓 I'm currently studying TSI(Tecnologia em Sistemas para a Internet) at IFB - Instituto Federal de Brasília.\
+🌱 I'm on track for learning more about Front-end, Back-end and Cloud Architecture.\
+✍️ In my free time, I like to study about photography and watch soccer with my Dad.\
+🏋️ Some of my hoobies are: Weightlifting, Soccer and walk at the park, but at the the moment, due to a ligament torn I'm not allowed to do any 😢
+    
 
+I'm looking forward to contribute on some Open Source projects while I improve my skills as a FullStack Developer. Hope I can enjoy my jorney and find great people to surround me and make the road as less rough as possible. 
 
- 
+Feel free to contact me! 🐼
+    
+
+### Tech Stack 🪓👷
  
 ![Logo Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")
 ![Logo HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML5")
@@ -25,15 +36,19 @@
 ![alt text for screen readers](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white "JAVA")
 
 
-
-### Currently Learning 🤓
+### Currently Learning 🤓💻
 
 ![alt text for screen readers](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white "Angular")
 ![alt text for screen readers](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "TypeScript")
 ![alt text for screen readers](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white "SPRING")
 ![alt text for screen readers](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white "GIT")
 
-
+ 
+<p align="center">
+<a href="https://github.com/GuilhermeCostaDF">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GuilhermeCostaDF&layout=compact&langs_count=8&theme=dracula"/>
+</a>
+</p>
 
 
 
