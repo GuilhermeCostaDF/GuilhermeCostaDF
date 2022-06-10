@@ -38,9 +38,10 @@ Feel free to contact me! 🐼
 
 ### Currently Learning 🤓💻
 
-![alt text for screen readers](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white "Angular")
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![alt text for screen readers](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white "TypeScript")
-![alt text for screen readers](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white "SPRING")
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![alt text for screen readers](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white "GIT")
 
  
