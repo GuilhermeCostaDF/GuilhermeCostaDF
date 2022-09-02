@@ -1,5 +1,3 @@
-<img  src="https://i.ibb.co/X3BmmG0/download.png">
-
 <p align="center">
   <a href="https://www.instagram.com/chileninhow/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
